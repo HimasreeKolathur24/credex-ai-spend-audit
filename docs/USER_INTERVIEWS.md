@@ -1,4 +1,3 @@
-```md
 # User Interview Research
 
 ## Purpose
@@ -161,4 +160,3 @@ Users value trustworthy financial reasoning more than flashy dashboards.
 - Identify repeated patterns
 - Extract real quotes and frustrations
 - Use findings to improve audit recommendations
-```

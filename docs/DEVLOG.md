@@ -1,4 +1,3 @@
-```md
 # Credex AI Spend Audit - Development Log
 
 This document tracks:
@@ -159,4 +158,3 @@ Clear documentation improves technical decision-making.
 ## Lesson 3
 
 Trustworthy financial recommendations will matter more than flashy UI.
-```

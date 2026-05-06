@@ -1,4 +1,3 @@
-```md
 # AI Tool Pricing Dataset
 
 ## Purpose
@@ -229,4 +228,3 @@ This document will evolve during development as:
 - Pricing changes
 - User interviews reveal new patterns
 - Additional AI tools are analyzed
-```
